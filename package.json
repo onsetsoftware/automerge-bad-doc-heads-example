@@ -2,7 +2,7 @@
   "name": "automerge-bad-doc-heads-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index",
+  "main": "src/index",
   "scripts": {
     "dev": "tsc --watch & nodemon dist"
   },
